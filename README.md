@@ -11,3 +11,7 @@ By completing this project, I aim to:
 - Understand the full workflow from schematic to fabrication
 - Apply real-world design constraints (power supply, connectors, etc.)
 - Build confidence in creating and testing custom electronics
+
+| Part         | Value        | Footprint        | Quantity |
+|--------------|--------------|------------------|----------|
+|              |              |                  |          |
